@@ -1,0 +1,15 @@
+.home {
+  background-color: brown;
+
+  &-title {
+    color: blue;
+    text-transform: uppercase;
+    text-decoration: double;
+    font-size: 40px
+  }
+
+  &-paragraph {
+    font-style: italic;
+    color: green;
+  }
+}
